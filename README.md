@@ -13,4 +13,5 @@ The California Consumer Privacy Act (CCPA) provides consumers with the right to 
 
 ## Services
 [Hulu](https://secure.hulu.com/account/privacy)
+
 Spotify - You may exercise your right to delete by using the ‘Contact Us’ form on the Privacy Center and selecting “I want to permanently delete my data” or emailing us at privacy@spotify.com.
