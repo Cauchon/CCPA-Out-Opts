@@ -19,7 +19,7 @@ The California Consumer Privacy Act (CCPA) provides consumers with the right to 
 [Washington Post](https://www.washingtonpost.com/my-post/privacy-settings/)  
 
 ### Shopping
-[Best Buy](https://www.bestbuy.com/site/privacy-policy/california-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063) - email CaliforniaPrivacyRights@bestbuy.com  
+[Best Buy](https://www.bestbuy.com/site/privacy-policy/california-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063) - Email CaliforniaPrivacyRights@bestbuy.com  
 [Walmart](https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=sod)  
 [Target](https://www.target.com/c/california-residents-privacy-policy/-/N-m2wjt) - To request removal of content or information, please call Guest Relations at 800-440-0680  
 
