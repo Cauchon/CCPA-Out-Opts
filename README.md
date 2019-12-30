@@ -25,6 +25,7 @@ The California Consumer Privacy Act (CCPA) provides consumers with the right to 
 
 ### Services
 * [AOL](https://aol.mydashboard.oath.com/)  
+[Comcast](https://www.xfinity.com/privacy/requests/affirmation)  
 * [Disney](http://ccpa.disney.com/)  
 * [ESPN](http://ccpa.disney.com/)  
 * [Hulu](https://secure.hulu.com/account/privacy)  
