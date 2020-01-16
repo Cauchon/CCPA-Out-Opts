@@ -30,6 +30,7 @@ The California Consumer Privacy Act (CCPA) provides consumers with the right to 
 * [ESPN](http://ccpa.disney.com/)  
 * [Hulu](https://secure.hulu.com/account/privacy)  
 * [Pinterest](https://policy.pinterest.com/en/privacy-policy#section-california-residents) - Email privacy-support@pinterest.com  
+* [Postmates](https://support.postmates.com/buyer/contact-us/ccpa-information-access)
 * [Yahoo](https://yahoo.mydashboard.oath.com/)  
 * [Spotify](https://www.spotify.com/us/legal/California-privacy-disclosure/) - You may exercise your right to delete by using the ‘Contact Us’ form on the Privacy Center and selecting “I want to permanently delete my data” or emailing us at privacy@spotify.com.  
 * [Weather.com](https://weather.com/privacy-settings#do-not-sell)
