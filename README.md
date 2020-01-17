@@ -26,12 +26,21 @@ The California Consumer Privacy Act (CCPA) provides consumers with the right to 
 ### Services
 * [AOL](https://aol.mydashboard.oath.com/)  
 * [Comcast](https://www.xfinity.com/privacy/requests/affirmation)  
+* [Dominos](https://www.dominos.com/en/#!/content/privacy/)
+* [DoorDash](https://www.doordash.com/consumer/privacy/manage_account) 
 * [Disney](http://ccpa.disney.com/)  
 * [ESPN](http://ccpa.disney.com/)  
-* [Hulu](https://secure.hulu.com/account/privacy)  
+* [Equifax](https://www.equifax.com/personal/my-privacy/)
+* [Experian](https://experian.com/ccpa)  
+* [Grubhub](https://www.grubhub.com/legal/ca-privacy-notice) - Emailing privacy@grubhub.com with the subject line “California Privacy Rights Request.” 
+* [Hulu](https://secure.hulu.com/account/privacy) 
+* [Lyft](https://www.lyft.com/privacy/home) - Log in to the privacy home, scroll to "How can I exercise my California privacy rights?" 
+* [Papa John's](https://privacyportal-cdn.onetrust.com/dsarwebform/24528fbe-3e9a-4ba1-b316-39ca27517543/616bdf6f-852c-4b48-b91b-3edbbadbd74f.html)
 * [Pinterest](https://policy.pinterest.com/en/privacy-policy#section-california-residents) - Email privacy-support@pinterest.com  
-* [Postmates](https://support.postmates.com/buyer/contact-us/ccpa-information-access)
-* [Yahoo](https://yahoo.mydashboard.oath.com/)  
+* [Postmates](https://support.postmates.com/buyer/contact-us/ccpa-information-access) 
 * [Spotify](https://www.spotify.com/us/legal/California-privacy-disclosure/) - You may exercise your right to delete by using the ‘Contact Us’ form on the Privacy Center and selecting “I want to permanently delete my data” or emailing us at privacy@spotify.com.  
-* [Weather.com](https://weather.com/privacy-settings#do-not-sell)
+* [TransUnion](https://www.transunion.com/consumer-privacy)
+* [Uber](https://privacy.uber.com/privacy/california) 
+* [Weather.com](https://weather.com/privacy-settings#do-not-sell) 
+* [Yahoo](https://yahoo.mydashboard.oath.com/)  
 * [Zillow | Trulia | hotpads](https://privacy.zillowgroup.com/cookie)
